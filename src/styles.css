@@ -54,6 +54,9 @@ button {
   width: 620px;
   margin: 20px auto;
 }
+.open-source-link {
+  font-size: 15px;
+}
 #city-input {
   position: relative;
   top: -3px;
