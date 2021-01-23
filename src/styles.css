@@ -1,0 +1,66 @@
+h1,
+h2,
+h3,
+p,
+ul {
+  padding-left: 20px;
+}
+
+h1 {
+  font-size: 26px;
+  padding-top: 70px;
+  margin-bottom: 0;
+}
+h2,
+h3 {
+  font-size: 15px;
+  font-weight: 350;
+  position: relative;
+  top: -85px;
+}
+p {
+  font-size: 30px;
+}
+ul {
+  list-style: none;
+  padding-top: 55px;
+  font-size: 15px;
+  font-weight: 350;
+}
+button {
+  position: relative;
+  right: -155px;
+  top: -38px;
+}
+.vertical {
+  border-left: 6px solid rgba(0, 0, 0, 0.6);
+  height: 280px;
+  position: absolute;
+  left: 35%;
+  top: 200px;
+}
+
+.other-days-first {
+  position: relative;
+  right: -270px;
+  top: -210px;
+}
+.other-days-second {
+  position: relative;
+  right: -270px;
+  top: -150px;
+}
+.container {
+  width: 620px;
+  margin: 20px auto;
+}
+#city-input {
+  position: relative;
+  top: -3px;
+  right: -250px;
+}
+#c-output,
+#f-output,
+#divider {
+  font-size: 18px;
+}
